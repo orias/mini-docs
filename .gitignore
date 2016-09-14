@@ -12,3 +12,5 @@
 *.gls
 *.ilg
 *.ind
+*.lof
+*.toc
